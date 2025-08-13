@@ -1,4 +1,4 @@
-# 📈 Versitron VDAU1664 | Real-Time, Low-Noise 16-Channel Video Distribution Amplifier | Plug-and-Play Analog Video Signal Booster
+#  Versitron VDAU1664 | Real-Time, Low-Noise 16-Channel Video Distribution Amplifier | Plug-and-Play Analog Video Signal Booster
 
 The **Versitron VDAU1664** is a **robust, dependable video amplifier** designed to deliver **zero latency video distribution** across 16 independent BNC outputs. Engineered for **high-resolution signal boosting** and **interference-free video distribution**, it is the ideal solution for **HD CCTV amplifier**, broadcast, and industrial analog video systems.
 
